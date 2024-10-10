@@ -1,0 +1,35 @@
+# Ignore vendor directory
+vendor/
+
+# Ignore Laravel logs
+storage/logs
+storage/logs/*
+
+# Ignore Laravel cache files
+storage/framework/views
+storage/framework/sessions
+storage/framework/cache
+
+# Ignore uploaded files
+public/storage
+
+# Ignore compiled assets
+public/css
+public/js
+
+# Ignore .env file
+.env
+
+# Ignore IDE settings
+.idea
+.vscode
+
+# Ignore Composer lock file
+composer.lock
+
+# Ignore Laravel logs
+logs
+
+# Ignore cache files
+boostrap/cache
+node_modules/
